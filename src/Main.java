@@ -5,7 +5,6 @@ import java.awt.event.ActionListener;
 public class Main {
     private JLabel codificadoLabel;
     private JLabel descodificadoLabel;
-    private String textoOriginal = "";
 
     public Main() {
         Cifra cifra = new Cifra();
